@@ -1,7 +1,7 @@
 JNinka
 ======
 
-Source code license identification tool
+Source code license identification tool.
 
 
 Introduction
